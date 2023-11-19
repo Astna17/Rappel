@@ -7,6 +7,10 @@ public class Subscriber extends User {
         this.reference = reference;
     }
 
+    public Subscriber() {
+        
+    }
+
     public String getReference() {
         return reference;
     }
