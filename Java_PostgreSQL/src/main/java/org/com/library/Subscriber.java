@@ -21,4 +21,8 @@ public class Subscriber extends User {
 
     public void setIdSubscriber(int idSubscriber) {
     }
+
+    public int getIdSubscriber() {
+        return 0;
+    }
 }
