@@ -19,4 +19,6 @@ public class Subscriber extends User {
         this.reference = reference;
     }
 
+    public void setIdSubscriber(int idSubscriber) {
+    }
 }
